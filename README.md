@@ -10,3 +10,10 @@
 
 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
 AWS (VPC, EC2, RDS, ALB, S3) | Terraform | WordPress | MySQL | Cloud-Init
+
+
+ 𝗟𝗲𝘀𝘀𝗼𝗻𝘀 𝗟𝗲𝗮𝗿𝗻𝗲𝗱
+ • How to structure reusable Terraform modules
+ • Managing remote state and locking properly
+ • How to debug Terraform effectively 
+ • Automating app bootstrap so instances are production-ready on launch
